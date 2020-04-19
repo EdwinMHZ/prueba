@@ -38,3 +38,21 @@ Underline 2
 
 # Imagenes
 ![Imagen de prueba](https://s1.1zoom.me/big0/278/Skulls_Gothic_Fantasy_Dress_554441_1280x917.jpg)
+
+# Code Snippets
+Código en JSON
+```JSON
+[
+  {
+    "title": "apples",
+    "count": [12000, 20000],
+    "description": {"text": "...", "sensitive": false}
+  },
+  {
+    "title": "oranges",
+    "count": [17500, null],
+    "description": {"text": "...", "sensitive": false}
+  }
+]
+
+```
