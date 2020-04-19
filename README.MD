@@ -56,3 +56,8 @@ Código en JSON
 ]
 
 ```
+# Tablas
+| Nombre | Apellido | Id |
+| ------ | -------- | -- |
+| Edwin  | Morales  | 155|
+| Javier | Hernandez| 25555|
