@@ -61,3 +61,10 @@ Código en JSON
 | ------ | -------- | -- |
 | Edwin  | Morales  | 155|
 | Javier | Hernandez| 25555|
+
+# Citas
+Esto es un texto referente a una cita
+> Esto es una cita
+
+Esto es otro texto que no se relaciona con la cita anterior.
+> Esto es otra cita.
