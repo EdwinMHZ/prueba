@@ -79,3 +79,10 @@ Esto será un texto que será dividio por asteriscos
 Esto será un texto que será dividio por guiones bajos
 
 ___
+
+# Saltos de Línea
+Esto es el primer parrafo.
+
+Esto es el segundo parrafo.
+
+Esto es el tercer parrafo.
