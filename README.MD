@@ -35,3 +35,6 @@ Underline 2
 - <a href="https://www.youtube.com/">Esto es un link html</a>
 - [Esto es un link en markdown](https://www.youtube.com/)
 - [Esto es un link al index](index.html)
+
+# Imagenes
+![Imagen de prueba](https://s1.1zoom.me/big0/278/Skulls_Gothic_Fantasy_Dress_554441_1280x917.jpg)
